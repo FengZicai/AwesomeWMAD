@@ -64,4 +64,4 @@ This survey categorizes current research into three key areas:
 
 ## ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=FengZicai/AwesomeWMAD&type=Date)](https://star-history.com/#FengZicai/AwesomeWMAD&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=FengZicai/AwesomeWMAD&type=Date)](https://www.star-history.com/#FengZicai/AwesomeWMAD&Date)
