@@ -24,7 +24,7 @@
 #### CarFormer: Self-Driving with Learned Object-Centric Representations
 
 * **Authors**: Shadi Hamdan, Fatma Güney
-* **Links**: [arXiv:2407.15843](https://arxiv.org/abs/2407.15843)
+* **Links**: [arXiv:2407.15843](https://arxiv.org/abs/2407.15843) · [ECCV 2024](https://link.springer.com/content/pdf/10.1007/978-3-031-72652-1.pdf)
 
 #### Model-Based Imitation Learning for Urban Driving
 
