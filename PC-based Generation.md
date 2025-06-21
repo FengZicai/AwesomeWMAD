@@ -1,22 +1,22 @@
 # PC-based Generation
 
-#### Self-supervised point cloud prediction using 3d spatio-temporal convolutional networks
+#### Self-supervised Point Cloud Prediction Using 3D Spatio-temporal Convolutional Networks
 
 * **Authors**: Benedikt Mersch, Xieyuanli Chen, Jens Behley, Cyrill Stachniss
 * **Links**: [CoRL 2022](https://proceedings.mlr.press/v164/mersch22a.html)
 
 
-#### Point cloud forecasting as a proxy for 4d occupancy forecasting
+#### Point Cloud Forecasting as a Proxy for 4D Occupancy Forecasting
 
 * **Authors**: Tarasha Khurana, Peiyun Hu, David Held, Deva Ramanan
 * **Links**: [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Khurana_Point_Cloud_Forecasting_as_a_Proxy_for_4D_Occupancy_Forecasting_CVPR_2023_paper.html)
 
-#### Pcpnet: An efficient and semantic-enhanced transformer network for point cloud prediction
+#### PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction
 
 * **Authors**: Zhen Luo, Junyi Ma, Zijie Zhou, Guangming Xiong
 * **Links**: [RA-L 2023](https://ieeexplore.ieee.org/abstract/document/10141631)
 
-#### ViDAR: Visual point cloud forecasting enables scalable autonomous driving
+#### ViDAR: Visual Point Cloud Forecasting enables Scalable Autonomous Driving
 
 * **Authors**: Zetong Yang, Li Chen, Yanan Sun, Hongyang Li
 * **Links**: [arXiv:2312.17655](https://arxiv.org/abs/2312.17655) · [CVPR 2024 Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Visual_Point_Cloud_Forecasting_enables_Scalable_Autonomous_Driving_CVPR_2024_paper.pdf)
@@ -49,7 +49,7 @@
 * **Authors**: Ahmad El Sallab, Ibrahim Sobh, Mohamed Zahran, Nader Essam
 * **Links**: [arXiv:1905.07290](https://arxiv.org/pdf/1905.07290) 
 
-#### Deep generative modeling of lidar data
+#### Deep Generative Modeling of LiDAR Data
 
 * **Authors**: Lucas Caccia, Herke van Hoof, Aaron Courville, Joelle Pineau
 * **Links**: [arXiv:1812.01180](https://arxiv.org/pdf/1812.01180) 
@@ -59,12 +59,12 @@
 * **Authors**: Xinshuo Weng, Jianren Wang, Sergey Levine, Kris Kitani, Nicholas Rhinehart
 * **Links**: [CoRL 2020](https://proceedings.mlr.press/v155/weng21a/weng21a.pdf) 
 
-#### S2net: Stochastic sequential pointcloud forecasting
+#### S2Net: Stochastic Sequential Pointcloud Forecasting
 
 * **Authors**: Xinshuo Weng, Junyu Nan, Kuan-Hui Lee, Rowan McAllister, Adrien Gaidon, Nicholas Rhinehart, Kris M. Kitani 
 * **Links**: [ECCV 2022](https://link.springer.com/content/pdf/10.1007/978-3-031-19812-0.pdf)
 
-#### Lidarsim: Realistic lidar simulation by leveraging the real world
+#### LiDARsim: Realistic LiDAR Simulation by Leveraging the Real World
 
 * **Authors**: Sivabalan Manivasagam, Shenlong Wang, Kelvin Wong, Wenyuan Zeng, Mikita Sazanovich, Shuhan Tan, Bin Yang, Wei-Chiu Ma, Raquel Urtasun
 * **Links**: [CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Manivasagam_LiDARsim_Realistic_LiDAR_Simulation_by_Leveraging_the_Real_World_CVPR_2020_paper.pdf)
@@ -76,13 +76,12 @@
 * **Authors**: Yuwen Xiong, Wei-Chiu Ma, Jingkang Wang, Raquel Urtasun
 * **Links**: [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Xiong_Learning_Compact_Representations_for_LiDAR_Completion_and_Generation_CVPR_2023_paper.html)
 
-#### Neural lidar fields for novel view synthesis
+#### Neural LiDAR Fields for Novel View Synthesis
 
 * **Authors**: Shengyu Huang, Zan Gojcic, Zian Wang, Francis Williams, Yoni Kasten, Sanja Fidler, Konrad Schindler, Or Litany
 * **Links**: [ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_Neural_LiDAR_Fields_for_Novel_View_Synthesis_ICCV_2023_paper.pdf)
 
-#### Nerf-lidar: Generating realistic lidar point clouds with neural radiance fields
-
+#### NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields
 
 * **Authors**: Junge Zhang, Feihu Zhang, Shaochen Kuang, Li Zhang
 * **Links**: [AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/28546)
