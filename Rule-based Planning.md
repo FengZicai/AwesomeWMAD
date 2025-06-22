@@ -5,16 +5,16 @@
   * **Links**: [IEEE Trans. Intell. Transp. Syst. 17(4):1135–1145, 2016](https://doi.org/10.1109/TITS.2015.2498841)
 
 #### A Review of Motion Planning Algorithms for Intelligent Robots  
-  * **Authors**: Chao Zhou, Bin Huang, Pentti Fränti  
-  * **Links**: [J. Intell. Manuf. 33(2):387–424, 2022](https://doi.org/10.1007/s10845-021-01845-w)
+  * **Authors**: Chengmin Zhou, Bingding Huang, Pasi Fränti  
+  * **Links**: [J. Intell. Manuf. 33(2):387–424, 2022]([https://doi.org/10.1007/s10845-021-01845-w](https://link.springer.com/content/pdf/10.1007/s10845-021-01867-z.pdf))
 
 #### Congested Traffic States in Empirical Observations and Microscopic Simulations 
   * **Authors**: Michael Treiber, Arne Hennecke, Dirk Helbing  
   * **Links**: [Phys. Rev. E 62(2):1805, 2000](https://doi.org/10.1103/PhysRevE.62.1805)
 
-#### Parting with Misconceptions about Learning-Based Vehicle Motion Planning  
-  * **Authors**: David Dauner, Michael Hallgarten, Andreas Geiger, Kuan-Chuan Peng  
-  * **Links**: [CoRL 2023](http://proceedings.mlr.press/v268/dauner23a.html)
+#### Parting with Misconceptions about Learning-based Vehicle Motion Planning  
+  * **Authors**: Daniel Dauner, Marcel Hallgarten, Andreas Geiger, Kashyap Chitta  
+  * **Links**: [CoRL 2023]([http://proceedings.mlr.press/v268/dauner23a.html](https://proceedings.mlr.press/v229/dauner23a/dauner23a.pdf))
 
 #### Rapidly-Exploring Random Trees: A New Tool for Path Planning  
   * **Authors**: Steven M. LaValle  
