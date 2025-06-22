@@ -14,7 +14,7 @@
 
 #### Parting with Misconceptions about Learning-based Vehicle Motion Planning  
   * **Authors**: Daniel Dauner, Marcel Hallgarten, Andreas Geiger, Kashyap Chitta  
-  * **Links**: [CoRL 2023]([http://proceedings.mlr.press/v268/dauner23a.html](https://proceedings.mlr.press/v229/dauner23a/dauner23a.pdf))
+  * **Links**: [CoRL 2023](https://proceedings.mlr.press/v229/dauner23a/dauner23a.pdf)
 
 #### Rapidly-Exploring Random Trees: A New Tool for Path Planning  
   * **Authors**: Steven M. LaValle  
@@ -22,7 +22,7 @@
 
 #### RRT-Connect: An Efficient Approach to Single-Query Path Planning  
   * **Authors**: James J. Kuffner Jr., Steven M. LaValle  
-  * **Links**: [IEEE ICRA 2000](https://ieeexplore.ieee.org/document/846291)
+  * **Links**: [IEEE ICRA 2000](https://www.cs.cmu.edu/afs/andrew/scs/cs/15-494-sp13/nslobody/Class/readings/kuffner_icra2000.pdf)
 
 #### Sampling-Based Algorithms for Optimal Motion Planning  
   * **Authors**: Sertac Karaman, Emilio Frazzoli  
