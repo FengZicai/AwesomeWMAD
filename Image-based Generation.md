@@ -126,7 +126,7 @@
 #### Street-View Image Generation from a Bird's-Eye View Layout
   
 * **Authors**: Alexander Swerdlow, Runsheng Xu, Bolei Zhou  
-* **Links**: [arXiv:2301.04634](https://arxiv.org/abs/2301.04634) ·  [paperswithcode.com](https://paperswithcode.com/paper/bevgen-street-view-image-generation-from-a)  
+* **Links**: [arXiv:2301.04634](https://arxiv.org/abs/2301.04634) 
 
 
 #### DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT
