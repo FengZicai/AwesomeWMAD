@@ -1,6 +1,6 @@
 # AwesomeWMAD
 
-This repository contains a curated list of resources related to World Models for Autonomous Driving (WMAD), based on the our [survey](https://arxiv.org/pdf/2501.11260).
+This repository contains a curated list of resources related to World Models for Autonomous Driving (WMAD), based on the our [survey](https://arxiv.org/pdf/2501.11260v3).
 
 ## Paper Details
 
