@@ -8,7 +8,7 @@ This repository contains a curated list of resources related to World Models for
 
 **Authors:** Tuo Feng, Wenguan Wang, Yang Yi
 
-[**Paper Link**](https://arxiv.org/abs/2501.11260)
+[**Paper Link**](https://arxiv.org/abs/2501.11260v3)
 
 [**Paper List**](https://github.com/FengZicai/AwesomeWMAD)
 
