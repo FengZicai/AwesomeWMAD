@@ -1,5 +1,9 @@
 # Learning-based Planning
 
+#### FutureSightDrive: Visualizing Trajectory Planning with Spatio-Temporal CoT for Autonomous Driving
+* **Authors**: Shuang Zeng, Xinyuan Chang, Mengwei Xie, Xinran Liu, Yifan Bai, Zheng Pan, Mu Xu, Xing Wei
+* **Links**: [arXiv:2505.17685](https://arxiv.org/abs/2505.17685), [Code](https://github.com/MIV-XJTU/FSDrive)
+  
 #### AdaWM: Adaptive World Model based Planning for Autonomous Driving  
 * **Authors**: Hang Wang, Xin Ye, Feng Tao, Chenbin Pan, Abhirup Mallik, Burhaneddin Yaman, Liu Ren, Junshan Zhang  
 * **Links**: [arXiv:2501.13072](https://arxiv.org/abs/2501.13072)  
