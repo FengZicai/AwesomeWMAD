@@ -1,5 +1,9 @@
 # Image-based Generation
 
+#### FutureSightDrive: Visualizing Trajectory Planning with Spatio-Temporal CoT for Autonomous Driving
+* **Authors**: Shuang Zeng, Xinyuan Chang, Mengwei Xie, Xinran Liu, Yifan Bai, Zheng Pan, Mu Xu, Xing Wei
+* **Links**: [arXiv:2505.17685](https://arxiv.org/abs/2505.17685), [Code](https://github.com/MIV-XJTU/FSDrive)
+
 #### DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving
 
 * **Authors**: Xiaofeng Wang, Zheng Zhu, Guan Huang, Xinze Chen, Jiagang Zhu, Jiwen Lu
