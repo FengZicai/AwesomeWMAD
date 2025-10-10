@@ -1,6 +1,6 @@
 # AwesomeWMAD
 
-This repository contains a curated list of resources related to World Models for Autonomous Driving (WMAD), based on the [survey](https://arxiv.org/pdf/2501.11260v3).
+This repository contains a curated list of resources related to World Models for Autonomous Driving (WMAD), based on the [survey](https://arxiv.org/pdf/2501.11260v4).
 
 ## Paper Details
 
@@ -8,7 +8,7 @@ This repository contains a curated list of resources related to World Models for
 
 **Authors:** Tuo Feng, Wenguan Wang, Yang Yi
 
-[**Paper Link**](https://arxiv.org/abs/2501.11260v3)
+[**Paper Link**](https://arxiv.org/abs/2501.11260v4)
 
 [**Paper List**](https://github.com/FengZicai/AwesomeWMAD)
 
