@@ -6,7 +6,7 @@ This repository contains a curated list of resources related to World Models for
 
 **Title:** A Survey of World Models for Autonomous Driving
 
-**Authors:** Tuo Feng, Wenguan Wang, Yang Yi
+**Authors:** Tuo Feng, Wenguan Wang, Yi Yang
 
 [**Paper Link**](https://arxiv.org/abs/2501.11260v4)
 
