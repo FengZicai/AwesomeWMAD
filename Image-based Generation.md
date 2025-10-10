@@ -50,6 +50,10 @@
 * **Authors**: Yuqi Wang, Jiawei He, Lue Fan, Hongxin Li, Yuntao Chen, Zhaoxiang Zhang
 * **Links**: [CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Driving_into_the_Future_Multiview_Visual_Forecasting_and_Planning_with_CVPR_2024_paper.pdf)
 
+#### DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment
+
+* **Authors**: Xiaofan Li, Chenming Wu, Zhao Yang, Zhihao Xu, Dingkang Liang, Yumeng Zhang, Ji Wan, Jun Wang
+* **Links**: [arXiv:2504.18576](https://arxiv.org/pdf/2504.18576)
 
 #### Vista: A generalizable driving world model with high fidelity and versatile controllability
 
@@ -78,12 +82,12 @@
 * **Links**: [arXiv:2407.05679](https://arxiv.org/abs/2407.05679)
 
 
-#### Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latent Space
+#### EOTWM: Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latent Space
 
 * **Authors**: Jian Zhu, Zhengyu Jia, Tian Gao, Jiaxin Deng, Shidi Li, Fu Liu, Peng Jia, Xianpeng Lang, Xiaolong Sun
 * **Links**: [arXiv:2503.09215](https://arxiv.org/pdf/2503.09215)
 
-#### Physical Informed Driving World Model
+#### DrivePhysica: Physical Informed Driving World Model
 
 * **Authors**: Zhuoran Yang, Xi Guo, Chenjing Ding, Chiyu Wang, Wei Wu
 * **Links**: [arXiv:2412.08410](https://arxiv.org/abs/2412.08410)
@@ -98,7 +102,15 @@
 * **Authors**: Enhui Ma, Lijun Zhou, Tao Tang, Zhan Zhang, Dong Han, Junpeng Jiang, Kun Zhan, Peng Jia, Xianpeng Lang, Haiyang Sun, Di Lin, Kaicheng Yu
 * **Links**: [arXiv:2406.01349](https://arxiv.org/abs/2406.01349)
 
-#### Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception (UniFuture)  
+#### Imagine-2-Drive: Leveraging High-Fidelity World Models via Multi-Modal Diffusion Policies
+* **Authors**: Anant Garg, K Madhava Krishna
+* **Links**: [arXiv:2411.10171](https://arxiv.org/abs/2411.10171)  
+
+####  MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction 
+* **Authors**: Jingcheng Ni, Yuxin Guo, Yichen Liu, Rui Chen, Lewei Lu, and Zehuan Wu
+* **Links**: [arXiv:2502.11663](https://arxiv.org/abs/2502.11663)  
+
+#### UniFuture: Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception  
 * **Authors**: Dingkang Liang, Dingyuan Zhang, Xin Zhou, Sifan Tu, Tianrui Feng, Xiaofan Li, Yumeng Zhang, Mingyang Du, Xiao Tan, Xiang Bai  
 * **Links**: [arXiv:2503.13587](https://arxiv.org/abs/2503.13587)  
 
@@ -167,3 +179,7 @@
 * **Authors**: Zanming Huang, Jimuyang Zhang, Eshed Ohn-Bar
 * **Links**: [ECCV 2024](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02571.pdf)
 
+#### Infinicube: Unbounded and controllable dynamic 3d driving scene generation with world-guided video models 
+
+* **Authors**: Yifan Lu, Xuanchi Ren, Jiawei Yang, Tianchang Shen, Zhangjie Wu, Jun Gao, Yue Wang, Siheng Chen, Mike Chen, Sanja Fidler, Jiahui Huang
+* **Links**: 	[ICCV 2025] · [arXiv:2412.03934](https://arxiv.org/abs/2412.03934)
